@@ -13,6 +13,9 @@ technologies:
   - Consumer Functional Interface
 ```
 
+<img width="1893" height="762" alt="image" src="https://github.com/user-attachments/assets/f7482e83-8dd6-4748-9640-9f2f72cb4a0c" />
+
+
 
 # 🚀 WebServer_Java
 
@@ -127,4 +130,5 @@ You will learn:
 ## 💛 Author<br/>
 Anjali Daharwal<br/>
 CS Student | Web Developer | Java Developer | Full-Stack Developer
+
 
